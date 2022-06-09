@@ -48,7 +48,7 @@ p{
     height: 175px;
     border: 2px solid white;
     padding: 15px;
-    background: rgba(149, 255, 0, 0.1);
+    background: rgba(221, 169, 0, 0.562);
     box-shadow: 10px 15px 10px -6px rgba(255,255,255,0.5);
 }
 
@@ -56,7 +56,7 @@ p{
 @media (min-width:1200px){
     .subcontainer{
         width: 600px;
-        height: 350px;
+        height: 375px;
     }
 
     h2{
