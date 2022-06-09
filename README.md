@@ -1,4 +1,4 @@
-<center><h1> Random english word app</h1><center>
+<h1> Random english word app</h1>
 
 This projects has the pupose than offer the user, the posibility of expand your english vocabulary of a random manner.
 
@@ -6,7 +6,7 @@ This projects has the pupose than offer the user, the posibility of expand your 
 
 <img src="./Images/app_2.jpg.png">
 
-<p>Include responsive mode</p>
+<p>Include responsive mode:</p>
 
 <img src="./Images/app.jpg.png">
 
