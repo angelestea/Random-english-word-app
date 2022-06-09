@@ -2,7 +2,7 @@
 
 This projects has the pupose than offer the user, the posibility of expand your english vocabulary of a random manner.
 
-<img src="./Images/Cover.jpg">
+<img src="./Images/RADOM ENGLISH WORD APP cover.jpg">
 
 <img src="./Images/app_2.jpg.png">
 
